@@ -1,0 +1,8 @@
+sync-railscasts.py
+
+Syncs RailsCasts (http://railscasts.com/) to a local directory.
+Run again to sync.
+
+Run:
+
+$ python sync-railscasts.py 
